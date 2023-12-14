@@ -1,0 +1,17 @@
+C:\Users\harsh\OneDrive\Desktop\Project\Air-Tek\bin\Debug\net6.0\Air-Tek.exe
+C:\Users\harsh\OneDrive\Desktop\Project\Air-Tek\bin\Debug\net6.0\Air-Tek.deps.json
+C:\Users\harsh\OneDrive\Desktop\Project\Air-Tek\bin\Debug\net6.0\Air-Tek.runtimeconfig.json
+C:\Users\harsh\OneDrive\Desktop\Project\Air-Tek\bin\Debug\net6.0\Air-Tek.dll
+C:\Users\harsh\OneDrive\Desktop\Project\Air-Tek\bin\Debug\net6.0\Air-Tek.pdb
+C:\Users\harsh\OneDrive\Desktop\Project\Air-Tek\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\harsh\OneDrive\Desktop\Project\Air-Tek\obj\Debug\net6.0\Air-Tek.csproj.AssemblyReference.cache
+C:\Users\harsh\OneDrive\Desktop\Project\Air-Tek\obj\Debug\net6.0\Air-Tek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\OneDrive\Desktop\Project\Air-Tek\obj\Debug\net6.0\Air-Tek.AssemblyInfoInputs.cache
+C:\Users\harsh\OneDrive\Desktop\Project\Air-Tek\obj\Debug\net6.0\Air-Tek.AssemblyInfo.cs
+C:\Users\harsh\OneDrive\Desktop\Project\Air-Tek\obj\Debug\net6.0\Air-Tek.csproj.CoreCompileInputs.cache
+C:\Users\harsh\OneDrive\Desktop\Project\Air-Tek\obj\Debug\net6.0\Air-Tek.csproj.CopyComplete
+C:\Users\harsh\OneDrive\Desktop\Project\Air-Tek\obj\Debug\net6.0\Air-Tek.dll
+C:\Users\harsh\OneDrive\Desktop\Project\Air-Tek\obj\Debug\net6.0\refint\Air-Tek.dll
+C:\Users\harsh\OneDrive\Desktop\Project\Air-Tek\obj\Debug\net6.0\Air-Tek.pdb
+C:\Users\harsh\OneDrive\Desktop\Project\Air-Tek\obj\Debug\net6.0\Air-Tek.genruntimeconfig.cache
+C:\Users\harsh\OneDrive\Desktop\Project\Air-Tek\obj\Debug\net6.0\ref\Air-Tek.dll

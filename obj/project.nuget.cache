@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xaoc0JrKMIfucwAMIgsMc9rZKnj2E0b+wNgAHrd2IjBfv2BM3d9zRDOLB9dTDaBVFJpIm+3PfL7flxIdSWQGog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harsh\\OneDrive\\Desktop\\Project\\Air-Tek\\Air-Tek.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harsh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
